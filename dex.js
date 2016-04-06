@@ -635,7 +635,7 @@ var poliwag = {
     objflavor_y: "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
     objflavor_oras: "Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it."
 };
-/*
+
 var poliwhirl = {
     objdexnum: 61,
     objgeneration: "I",
@@ -656,8 +656,6 @@ var poliwrath = {
     objflavor_y: "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
     objflavor_oras: "Poliwrath’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort."
 };
-
-
 
 var abra = {
     objdexnum: 63,
@@ -774,6 +772,7 @@ var tentacruel = {
     objflavor_oras: "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon’s outburst creates rough waves around it. / Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time."
 };
 
+/*
  TEMPLATE
 var ? = {
     objdexnum: 0,
