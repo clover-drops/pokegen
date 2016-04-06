@@ -625,3 +625,162 @@ var arcanine = {
     objflavor_y: "Its magnificent bark conveys a sense of majesty. Anyone hearing it can’t help but grovel before it.",
     objflavor_oras: "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night. The fire that blazes wildly within this Pokémon’s body is its source of power."
 };
+
+var poliwag = {
+    objdexnum: 60,
+    objgeneration: "I",
+    objspecies: "Poliwag",
+    objtype1: "Water",
+    objflavor_x: "Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.",
+    objflavor_y: "The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.",
+    objflavor_oras: "Poliwag has a very thin skin. It is possible to see the Pokémon’s spiral innards right through the skin. Despite its thinness, however, the skin is also very flexible. Even sharp fangs bounce right off it."
+};
+
+var poliwhirl = {
+    objdexnum: 61,
+    objgeneration: "I",
+    objspecies: "Poliwhirl",
+    objtype1: "Water",
+    objflavor_x: "It can live in or out of water. When out of water, it constantly sweats to keep its body slimy.",
+    objflavor_y: "Its two legs are well developed. Even though it can live on the ground, it prefers living in water.",
+    objflavor_oras: "The surface of Poliwhirl’s body is always wet and slick with a slimy fluid. Because of this slippery covering, it can easily slip and slide out of the clutches of any enemy in battle."
+};
+
+var poliwrath = {
+    objdexnum: 62,
+    objgeneration: "I",
+    objspecies: "Poliwrath",
+    objtype1: "Water",
+    objtype2: "Fighting",
+    objflavor_x: "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+    objflavor_y: "A swimmer adept at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+    objflavor_oras: "Poliwrath’s highly developed, brawny muscles never grow fatigued, however much it exercises. It is so tirelessly strong, this Pokémon can swim back and forth across the ocean without effort."
+};
+
+var abra = {
+    objdexnum: 63,
+    objgeneration: "I",
+    objspecies: "Abra",
+    objtype1: "Psychic",
+    objflavor_x: "It senses impending attacks and teleports away to safety before the actual attacks can strike.",
+    objflavor_y: "Abra sleeps for eighteen hours a day. However, it can sense the presence of foes even while it is sleeping. In such a situation, this Pokémon immediately teleports to safety.",
+    objflavor_oras: "Abra needs to sleep for eighteen hours a day. If it doesn’t, this Pokémon loses its ability to use telekinetic powers. If it is attacked, Abra escapes using Teleport while it is still sleeping."
+};
+
+var kadabra = {
+    objdexnum: 64,
+    objgeneration: "I",
+    objspecies: "Kadabra",
+    objtype1: "Psychic",
+    objflavor_x: "When it uses its psychic power, it emits strong alpha waves that can ruin precision devices.",
+    objflavor_y: "If it uses its abilities, it emits special alpha waves that cause machines to malfunction.",
+    objflavor_oras: "Kadabra emits a peculiar alpha wave if it develops a headache. Only those people with a particularly strong psyche can hope to become a Trainer of this Pokémon. / Kadabra holds a silver spoon in its hand. The spoon is used to amplify the alpha waves in its brain. Without the spoon, the Pokémon is said to be limited to half the usual amount of its telekinetic powers."
+};
+
+var alakazam = {
+    objdexnum: 65,
+    objgeneration: "I",
+    objspecies: "Alakazam",
+    objtype1: "Psychic",
+    objflavor_x: "Its brain cells multiply continually until it dies. As a result, it remembers everything.",
+    objflavor_y: "Its brain can outperform a supercomputer. Its IQ (intelligence quotient) is said to be around 5,000.",
+    objflavor_oras: "Alakazam’s brain continually grows, making its head far too heavy to support with its neck. This Pokémon holds its head up using its psychokinetic power instead. / Alakazam’s brain continually grows, infinitely multiplying brain cells. This amazing brain gives this Pokémon an astoundingly high IQ of 5,000. It has a thorough memory of everything that has occurred in the world."
+};
+
+var machop = {
+    objdexnum: 66,
+    objgeneration: "I",
+    objspecies: "Machop",
+    objtype1: "Fighting",
+    objflavor_x: "It hefts a Graveler repeatedly to strengthen its entire body. It uses every type of martial arts.",
+    objflavor_y: "Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.",
+    objflavor_oras: "Machop’s muscles are special—they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans. / Machop exercises by hefting around a Graveler as if it were a barbell. There are some Machop that travel the world in a quest to master all kinds of martial arts."
+};
+
+var machoke = {
+    objdexnum: 67,
+    objgeneration: "I",
+    objspecies: "Machoke",
+    objtype1: "Fighting",
+    objflavor_x: "Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.",
+    objflavor_y: "It can lift a dump truck with one hand. Using that power, it helps people with heavy jobs.",
+    objflavor_oras: "Machoke’s thoroughly toned muscles possess the hardness of steel. This Pokémon has so much strength, it can easily hold aloft a sumo wrestler on just one finger. / Machoke undertakes bodybuilding every day even as it helps people with tough, physically demanding labor. On its days off, this Pokémon heads to the fields and mountains to exercise and train."
+};
+
+var machamp = {
+    objdexnum: 68,
+    objgeneration: "I",
+    objspecies: "Machamp",
+    objtype1: "Fighting",
+    objflavor_x: "Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.",
+    objflavor_y: "It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.",
+    objflavor_oras: "Machamp has the power to hurl anything aside. However, trying to do any work requiring care and dexterity causes its arms to get tangled. This Pokémon tends to leap into action before it thinks. / Machamp is known as the Pokémon that has mastered every kind of martial arts. If it grabs hold of the foe with its four arms, the battle is all but over. The hapless foe is thrown far over the horizon."
+};
+
+var bellsprout = {
+    objdexnum: 69,
+    objgeneration: "I",
+    objspecies: "Bellsprout",
+    objtype1: "Grass",
+    objtype2: "Poison",
+    objflavor_x: "Even though its body is extremely skinny, it is blindingly fast when catching its prey.",
+    objflavor_y: "Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.",
+    objflavor_oras: "Bellsprout’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron."
+};
+
+var weepinbell = {
+    objdexnum: 70,
+    objgeneration: "I",
+    objspecies: "Weepinbell",
+    objtype1: "Grass",
+    objtype2: "Poison",
+    objflavor_x: "The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.",
+    objflavor_y: "It spits out Poison Powder to immobilize the enemy and then finishes it with a spray of Acid.",
+    objflavor_oras: "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground."
+};
+
+var victreebel = {
+    objdexnum: 71,
+    objgeneration: "I",
+    objspecies: "Victreebel",
+    objtype1: "Grass",
+    objtype2: "Poison",
+    objflavor_x: "Said to live in huge colonies deep in jungles, although no one has ever returned from there.",
+    objflavor_y: "Once ingested into this Pokémon’s body, even the hardest object will melt into nothing.",
+    objflavor_oras: "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole."
+};
+
+var tentacool = {
+    objdexnum: 72,
+    objgeneration: "I",
+    objspecies: "Tentacool",
+    objtype1: "Water",
+    objtype2: "Poison",
+    objflavor_x: "Its body is virtually composed of water. It shoots strange beams from its crystal-like eyes.",
+    objflavor_y: "Drifts in shallow seas. Anglers who hook them by accident are often punished by their stingers.",
+    objflavor_oras: "Tentacool’s body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea. / Tentacool absorbs sunlight and refracts it using water inside its body to convert it into beam energy. This Pokémon shoots beams from the small round organ above its eyes."
+};
+
+var tentacruel = {
+    objdexnum: 73,
+    objgeneration: "I",
+    objspecies: "Tentacruel",
+    objtype1: "Water",
+    objtype2: "Poison",
+    objflavor_x: "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.",
+    objflavor_y: "It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.",
+    objflavor_oras: "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon’s outburst creates rough waves around it. / Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time."
+};
+
+/* TEMPLATE
+var ? = {
+    objdexnum: 0,
+    objgeneration: "I",
+    objspecies: "",
+    objtype1: "",
+    objtype2: "",
+    objflavor_x: "",
+    objflavor_y: "",
+    objflavor_oras: ""
+};
+*/
