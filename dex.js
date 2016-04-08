@@ -243,7 +243,7 @@ var fearow = {
     objflavor_oras: "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey."
 };
 
-var ekans= {
+var ekans = {
     objdexnum: 23,
     objgeneration: "I",
     objspecies: "Ekans",
