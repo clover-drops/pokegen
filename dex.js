@@ -253,7 +253,7 @@ var ekans= {
     objflavor_oras: "Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head."
 };
 
-var arbok= {
+var arbok = {
     objdexnum: 24,
     objgeneration: "I",
     objspecies: "Arbok",
@@ -263,7 +263,7 @@ var arbok= {
     objflavor_oras: "This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crunching embrace is impossible."
 };
 
-var pikachu= {
+var pikachu = {
     objdexnum: 25,
     objgeneration: "I",
     objspecies: "Pikachu",
@@ -273,7 +273,7 @@ var pikachu= {
     objflavor_oras: "Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it’s evidence that this Pokémon mistook the intensity of its charge. / This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up."
 };
 
-var raichu= {
+var raichu = {
     objdexnum: 26,
     objgeneration: "I",
     objspecies: "Raichu",
