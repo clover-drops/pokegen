@@ -1036,6 +1036,7 @@ var krabby = {
     objflavor_x: "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
     objflavor_y: "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
     objflavor_oras: "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory."
+};
 
 var kingler = {
     objdexnum: 99,
