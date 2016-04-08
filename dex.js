@@ -772,6 +772,302 @@ var tentacruel = {
     objflavor_oras: "Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon’s outburst creates rough waves around it. / Tentacruel has tentacles that can be freely elongated and shortened at will. It ensnares prey with its tentacles and weakens the prey by dosing it with a harsh toxin. It can catch up to 80 prey at the same time."
 };
 
+var geodude = {
+    objdexnum: 74,
+    objgeneration: "I",
+    objspecies: "Geodude",
+    objtype1: "Rock",
+    objtype2: "Ground",
+    objflavor_x: "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.",
+    objflavor_y: "It is impossible to distinguish from rocks. It slams against others in contests of hardness.",
+    objflavor_oras: "The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon’s heart will remain hard, craggy, and rough always. / When Geodude sleeps deeply, it buries itself halfway into the ground. It will not awaken even if hikers step on it unwittingly. In the morning, this Pokémon rolls downhill in search of food."
+};
+
+var graveler = {
+    objdexnum: 75,
+    objgeneration: "I",
+    objspecies: "Graveler",
+    objtype1: "Rock",
+    objtype2: "Ground",
+    objflavor_x: "With a free and uncaring nature, it doesn’t mind if pieces break off while it rolls down mountains.",
+    objflavor_y: "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.",
+    objflavor_oras: "Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis. / Rocks are Graveler’s favorite food. This Pokémon will climb a mountain from the base to the summit, crunchingly feasting on rocks all the while. Upon reaching the peak, it rolls back down to the bottom."
+};
+
+var golem = {
+    objdexnum: 76,
+    objgeneration: "I",
+    objspecies: "Golem",
+    objtype1: "Rock",
+    objtype2: "Ground",
+    objflavor_x: "It tumbles down mountains, leaving grooves from peak to base. Stay clear of these grooves.",
+    objflavor_y: "Even dynamite can’t harm its hard, boulder-like body. It sheds its hide just once a year.",
+    objflavor_oras: "Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below. / Golem is known for rolling down from mountains. To prevent them from rolling into the homes of people downhill, grooves have been dug into the sides of mountains to serve as guideways for diverting this Pokémon’s course."
+};
+
+var ponyta = {
+    objdexnum: 77,
+    objgeneration: "I",
+    objspecies: "Ponyta",
+    objtype1: "Fire",
+    objflavor_x: "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+    objflavor_y: "Its legs grow strong while it chases after its parent. It runs in fields and mountains all day.",
+    objflavor_oras: "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent."
+};
+
+var rapidash = {
+    objdexnum: 78,
+    objgeneration: "I",
+    objspecies: "Rapidash",
+    objtype1: "Fire",
+    objflavor_x: "Very competitive, this Pokémon will chase anything that moves fast in the hopes of racing it.",
+    objflavor_y: "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+    objflavor_oras: "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph."
+};
+
+var slowpoke = {
+    objdexnum: 79,
+    objgeneration: "I",
+    objspecies: "Slowpoke",
+    objtype1: "Water",
+    objtype2: "Psychic",
+    objflavor_x: "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+    objflavor_y: "It lazes vacantly near water. If something bites its tail, it won’t even notice for a whole day.",
+    objflavor_oras: "Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it’s doing and often spends entire days just loafing at water’s edge."
+};
+
+var slowbro = {
+    objdexnum: 80,
+    objgeneration: "I",
+    objspecies: "Slowbro",
+    objtype1: "Water",
+    objtype2: "Psychic",
+    objflavor_x: "An attached Shellder won’t let go because of the tasty flavor that oozes out of its tail.",
+    objflavor_y: "When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.",
+    objflavor_oras: "Slowbro’s tail has a Shellder firmly attached with a bite. As a result, the tail can’t be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead."
+};
+
+var magnemite = {
+    objdexnum: 81,
+    objgeneration: "I",
+    objspecies: "Magnemite",
+    objtype1: "Electric",
+    objtype2: "Steel",
+    objflavor_x: "The units at the sides of its body generate antigravity energy to keep it aloft in the air.",
+    objflavor_y: "It moves while constantly hovering. It discharges Thunder Wave and so on from the units at its sides.",
+    objflavor_oras: "Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box. / Magnemite floats in the air by emitting electromagnetic waves from the units at its sides. These waves block gravity. This Pokémon becomes incapable of flight if its internal electrical supply is depleted."
+};
+
+var magneton = {
+    objdexnum: 82,
+    objgeneration: "I",
+    objspecies: "Magneton",
+    objtype1: "Electric",
+    objtype2: "Steel",
+    objflavor_x: "A linked cluster formed of several Magnemite. It discharges powerful magnetic waves at high voltage.",
+    objflavor_y: "Generates strange radio signals. It raises the temperature by 3.6 degrees Fahrenheit within 3,300 feet.",
+    objflavor_oras: "Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon. / Magneton emits a powerful magnetic force that is fatal to electronics and precision instruments. Because of this, it is said that some towns warn people to keep this Pokémon inside a Poké Ball."
+};
+
+var farfetchd = {
+    objdexnum: 83,
+    objgeneration: "I",
+    objspecies: "Farfetch'd",
+    objtype1: "Normal",
+    objtype2: "Flying",
+    objflavor_x: "The plant stalk it holds is its weapon. The stalk is used like a sword to cut all sorts of things.",
+    objflavor_y: "It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.",
+    objflavor_oras: "Farfetch’d is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks."
+};
+
+var doduo = {
+    objdexnum: 84,
+    objgeneration: "I",
+    objspecies: "Doduo",
+    objtype1: "Normal",
+    objtype2: "Flying",
+    objflavor_x: "A two-headed Pokémon that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.",
+    objflavor_y: "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+    objflavor_oras: "Doduo’s two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps. / Doduo’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains."
+};
+
+var dodrio = {
+    objdexnum: 85,
+    objgeneration: "I",
+    objspecies: "Dodrio",
+    objtype1: "Normal",
+    objtype2: "Flying",
+    objflavor_x: "An enemy that takes its eyes off any of the three heads--even for a second--will get pecked severely",
+    objflavor_y: "An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.",
+    objflavor_oras: "Watch out if Dodrio’s three heads are looking in three separate directions. It’s a sure sign that it is on its guard. Don’t go near this Pokémon if it’s being wary—it may decide to peck you. / Apparently, the heads aren’t the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest."
+};
+
+var seel = {
+    objdexnum: 86,
+    objgeneration: "I",
+    objspecies: "Seel",
+    objtype1: "Water",
+    objflavor_x: "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+    objflavor_y: "Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of -40 degrees Fahrenheit.",
+    objflavor_oras: "Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head."
+};
+
+var dewgong = {
+    objdexnum: 87,
+    objgeneration: "I",
+    objspecies: "Dewgong",
+    objtype1: "Water",
+    objtype2: "Ice",
+    objflavor_x: "Its body is covered with a pure white fur. The colder the weather, the more active it becomes.",
+    objflavor_y: "Its streamlined body has little drag in water. The colder the temperature, the friskier it gets.",
+    objflavor_oras: "Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago."
+};
+
+var grimer = {
+    objdexnum: 88,
+    objgeneration: "I",
+    objspecies: "Grimer",
+    objtype1: "Poison",
+    objflavor_x: "Sludge exposed to X-rays from the moon transformed into Grimer. It loves feeding on filthy things.",
+    objflavor_y: "Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.",
+    objflavor_oras: "Grimer’s sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater. / Grimer emerged from the sludge that settled on a polluted seabed. This Pokémon loves anything filthy. It constantly leaks a horribly germ-infested fluid from all over its body."
+};
+
+var muk = {
+    objdexnum: 89,
+    objgeneration: "I",
+    objspecies: "Muk",
+    objtype1: "Poison",
+    objflavor_x: "They love to gather in smelly areas where sludge accumulates, making the stench around them worse.",
+    objflavor_y: "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+    objflavor_oras: "From Muk’s body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon’s body fluid can turn a pool stagnant and rancid. / This Pokémon’s favorite food is anything that is repugnantly filthy. In dirty towns where people think nothing of throwing away litter on the streets, Muk are certain to gather."
+};
+
+var shellder = {
+    objdexnum: 90,
+    objgeneration: "I",
+    objspecies: "Shellder",
+    objtype1: "Water",
+    objflavor_x: "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.",
+    objflavor_y: "Clamping on to an opponent reveals its vulnerable parts, so it uses this move only as a last resort.",
+    objflavor_oras: "At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out."
+};
+
+var cloyster = {
+    objdexnum: 91,
+    objgeneration: "I",
+    objspecies: "Cloyster",
+    objtype1: "Water",
+    objtype2: "Ice",
+    objflavor_x: "Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.",
+    objflavor_y: "Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.",
+    objflavor_oras: "Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system."
+};
+
+var gastly = {
+    objdexnum: 92,
+    objgeneration: "I",
+    objspecies: "Gastly",
+    objtype1: "Ghost",
+    objtype2: "Poison",
+    objflavor_x: "Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.",
+    objflavor_y: "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    objflavor_oras: "Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind."
+};
+
+var haunter = {
+    objdexnum: 93,
+    objgeneration: "I",
+    objspecies: "Haunter",
+    objtype1: "Ghost",
+    objtype2: "Poison",
+    objflavor_x: "If you get the feeling of being watched in darkness when nobody is around, Haunter is there.",
+    objflavor_y: "It licks with its gaseous tongue to steal the victim’s life force. It lurks in darkness for prey.",
+    objflavor_oras: "Haunter is a dangerous Pokémon. If one beckons you while floating in darkness, you must never approach it. This Pokémon will try to lick you with its tongue and steal your life away."
+};
+
+var gengar = {
+    objdexnum: 94,
+    objgeneration: "I",
+    objspecies: "Gengar",
+    objtype1: "Ghost",
+    objtype2: "Poison",
+    objflavor_x: "It hides in shadows. It is said that if Gengar is hiding, it cools the area by nearly 10 degrees Fahrenheit.",
+    objflavor_y: "Hiding in people’s shadows at night, it absorbs their heat. The chill it causes makes the victims shake.",
+    objflavor_oras: "Sometimes, on a dark night, your shadow thrown by a streetlight will suddenly and startlingly overtake you. It is actually a Gengar running past you, pretending to be your shadow."
+};
+
+var onix = {
+    objdexnum: 95,
+    objgeneration: "I",
+    objspecies: "Onix",
+    objtype1: "Rock",
+    objtype2: "Ground",
+    objflavor_x: "Burrows at high speed in search of food. The tunnels it leaves are used as homes by Diglett.",
+    objflavor_y: "It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.",
+    objflavor_oras: "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother."
+};
+
+var drowzee = {
+    objdexnum: 96,
+    objgeneration: "I",
+    objspecies: "Drowzee",
+    objtype1: "Psychic",
+    objflavor_x: "Puts enemies to sleep, then eats their dreams. Occasionally gets sick from eating only bad dreams.",
+    objflavor_y: "If you think that you had a good dream but you can’t remember it, a Drowzee has probably eaten it.",
+    objflavor_oras: "If your nose becomes itchy while you are sleeping, it’s a sure sign that one of these Pokémon is standing above your pillow and trying to eat your dream through your nostrils."
+};
+
+var hypno = {
+    objdexnum: 97,
+    objgeneration: "I",
+    objspecies: "Hypno",
+    objtype1: "Psychic",
+    objflavor_x: "It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.",
+    objflavor_y: "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+    objflavor_oras: "Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendulum lull the foe into a deep state of hypnosis. While this Pokémon searches for prey, it polishes the pendulum."
+};
+
+var krabby = {
+    objdexnum: 98,
+    objgeneration: "I",
+    objspecies: "Krabby",
+    objtype1: "Water",
+    objflavor_x: "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger.",
+    objflavor_y: "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+    objflavor_oras: "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory."
+
+var kingler = {
+    objdexnum: 99,
+    objgeneration: "I",
+    objspecies: "Kingler",
+    objtype1: "Water",
+    objflavor_x: "Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.",
+    objflavor_y: "Its pincers grow peculiarly large. If it lifts the pincers too fast, it loses its balance and staggers.",
+    objflavor_oras: "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires."
+};
+
+var voltorb = {
+    objdexnum: 100,
+    objgeneration: "I",
+    objspecies: "Voltorb",
+    objtype1: "Electric",
+    objflavor_x: "It was discovered when Poké Balls were introduced. It is said that there is some connection.",
+    objflavor_y: "Usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+    objflavor_oras: "Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery. / Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy."
+};
+
+
+var electrode = {
+    objdexnum: 100,
+    objgeneration: "I",
+    objspecies: "Electrode",
+    objtype1: "Electric",
+    objflavor_x: "It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”",
+    objflavor_y: "It stores an overflowing amount of electric energy inside its body. Even a small shock makes it explode.",
+    objflavor_oras: "Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity. / One of Electrode’s characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated."
+};
+
 /*
  TEMPLATE
 var ? = {
